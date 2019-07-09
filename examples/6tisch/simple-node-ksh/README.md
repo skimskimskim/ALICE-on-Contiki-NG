@@ -16,6 +16,7 @@ Default value is 3 (ALICE).
 
 
 ==========================================================================
+
 A RPL+TSCH node. Will act as basic node by default, but can be configured at startup
 using the user button and following instructions from the log output. Every press
 of a button toggles the mode as 6ln, 6dr or 6dr-sec (detailled next). After 10s with
