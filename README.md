@@ -2,7 +2,11 @@
 
 ALICE supports both Contiki and Contiki-NG !
 In this version (Contiki-NG), ALICE runs even in the Cooja simulator.
+
+
 example code location: ./examples/6tisch/simple-node-ksh
+
+
 ALICE source code location: ./apps/alice/
 
 
